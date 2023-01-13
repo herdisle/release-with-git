@@ -1,3 +1,10 @@
+## [1.2.0](https://github.com/herdisle/release-with-git/compare/v1.1.1...v1.2.0) (2023-01-13)
+
+
+### Features
+
+* print current time ([85bcde1](https://github.com/herdisle/release-with-git/commit/85bcde19a06024f47fa7e8cddf6bd18ddab22279))
+
 ## [1.1.1](https://github.com/herdisle/release-with-git/compare/v1.1.0...v1.1.1) (2023-01-13)
 
 
