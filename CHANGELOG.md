@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/herdisle/release-with-git/compare/v1.1.0...v1.1.1) (2023-01-13)
+
+
+### Bug Fixes
+
+* trigger build ([d1ee0bf](https://github.com/herdisle/release-with-git/commit/d1ee0bf56d4f951d92af8de6b41c7df08f8f07c2))
+
 ## [1.1.0](https://github.com/herdisle/release-with-git/compare/v1.0.0...v1.1.0) (2023-01-13)
 
 
